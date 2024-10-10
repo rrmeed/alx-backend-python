@@ -1,13 +1,11 @@
 # **Resources**
-
 **Read or watch**:
 
 - [Python 3 typing documentation](https://intranet.alxswe.com/rltoken/5j0OtdWh36_HVAHKJX2gaA)
 - [MyPy cheat sheet](https://intranet.alxswe.com/rltoken/Eud-nrUG7x3iT6JD2Sas-g)
 
 # **Learning Objectives**
-
-# **General**
+**General**
 
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/hGUom4nCewYmroS4ii_ZDQ), **without the help of Google**:
 
@@ -17,8 +15,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 - How to validate your code with `mypy`
 
 # **Requirements**
-
-## **General**
+**General**
 
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be interpreted/compiled on Ubuntu 18.04 LTS using `python3` (version 3.7)
